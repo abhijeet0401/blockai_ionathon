@@ -1,4 +1,4 @@
-<img src='./screenshot/BlockAi.jpg' />
+<img src='./screenshot/Login.jpg' />
 
 ## What is BLOCKAI:
 In very simplistic language BLOCKAI is banking application enabled with Self-Sovereign Identity(SSI) and Artificial Intelligence.
